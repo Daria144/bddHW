@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/bddDou/pom.xml" />
+        <option value="$PROJECT_DIR$/driver/pom.xml" />
       </set>
     </option>
   </component>
