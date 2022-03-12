@@ -30,10 +30,10 @@ public class DouMainPage extends BasePage {
     private WebElement companiesSection;
     @FindBy(xpath = "//a[contains(@href,\"city=%D0%A5%D0%B0\")]")
     private static WebElement citiesListKharkiv;
-    @FindBy(xpath = "//input[@class=\"job\"]")
     /**
      * input fields
      */
+    @FindBy(xpath = "//input[@class=\"job\"]")
     private static WebElement inputField;
     @FindBy(xpath = "//input[@id=\"txtGlobalSearch\"]")
     private static WebElement globalSearchField;

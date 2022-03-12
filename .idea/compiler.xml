@@ -11,6 +11,7 @@
     <bytecodeTargetLevel>
       <module name="bddDou" target="17" />
       <module name="driver" target="17" />
+      <module name="selenium-bdd" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
